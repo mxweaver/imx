@@ -1,2 +1,2 @@
 # imx
-Internet Message eXchange
+Instant Message eXchange

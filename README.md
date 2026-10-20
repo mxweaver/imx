@@ -8,7 +8,7 @@ Instant Message eXchange
 
 Users send messages through outboxes and receive them through inboxes. Each message is stored once, with independent access for its sender and recipient.
 
-- [`users`](/docs/features/users.md)
+- [`accounts`](/docs/features/users.md)
 - [`messages`](/docs/features/messages.md)
 - [`inboxes`](/docs/features/inboxes.md)
 - [`outboxes`](/docs/features/outboxes.md)
